@@ -32,9 +32,8 @@ Cette documentation est destinée aux développeurs du site web d'OSER. Vous tro
 Liens utiles
 ============
 
-- Documentation : http://oser-website.readthedocs.io/en/latest/
-- Dépôt Git : https://github.com/oser-cs/oser-backend.git
-- Django : https://docs.djangoproject.com/fr/2.0/
+- Organisation GitHub : https://github.com/oser-cs/
+- Django : https://docs.djangoproject.com/fr/
 - Django REST Framework : http://www.django-rest-framework.org
 
 Support

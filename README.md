@@ -1,10 +1,10 @@
 [![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://docs.python.org/3/)
 [![Sphinx](https://img.shields.io/badge/sphinx-1.7-blue.svg)](https://www.djangoproject.com)
-[![Build status](https://readthedocs.org/projects/oser-website/badge/?version=latest)](http://oser-website.readthedocs.io/fr/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/oser-tech-docs/badge/?version=latest)](http://oser-tech-docs.readthedocs.io/en/latest/?badge=latest)
 
 # Documentation technique du site web d'OSER
 
-Ce dépôt contient le code de la documentation hébergée sur [ReadTheDocs]. Tu as envie de participer à la documentation ? Suis le guide !
+Ce dépôt contient le code de la documentation hébergée sur [ReadTheDocs](http://oser-tech-docs.readthedocs.io/en/latest/). Tu as envie de participer à la documentation ? Suis le guide !
 
 ## Dépendances
 
