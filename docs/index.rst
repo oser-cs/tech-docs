@@ -14,17 +14,17 @@ Cette documentation est destinée aux développeurs du site web d'OSER. Vous tro
 
 .. toctree::
   :maxdepth: 2
-  :caption: Guide de l'administrateur
 
-  gestion-utilisateurs
+  guide-admin/index
 
 .. toctree::
   :maxdepth: 2
-  :caption: Guide du développeur
 
-  introduction
-  installation
-  documenter
+  guide-developpeur/index
+
+.. toctree::
+  :maxdepth: 2
+
   ressources-apprentissage/index
 
 
